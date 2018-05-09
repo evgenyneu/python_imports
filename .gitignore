@@ -1,3 +1,4 @@
 # Temporary files
 __pycache__/
 .cache
+.pyc
